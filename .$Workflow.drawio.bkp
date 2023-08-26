@@ -1,0 +1,67 @@
+<mxfile host="www.draw.io" modified="2023-05-26T09:17:37.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="tdWQ7RoxCKCeGdlMpl_Y" version="21.3.4" type="device">
+  <diagram name="Page-1" id="CAdP745jhNZoi-eidrqA">
+    <mxGraphModel dx="1002" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3Q2cJAhWrmQRliQ6Wqz9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Q2cJAhWrmQRliQ6Wqz9-1" target="3Q2cJAhWrmQRliQ6Wqz9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q2cJAhWrmQRliQ6Wqz9-1" value="Identified the Problem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q2cJAhWrmQRliQ6Wqz9-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Q2cJAhWrmQRliQ6Wqz9-2" target="3Q2cJAhWrmQRliQ6Wqz9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q2cJAhWrmQRliQ6Wqz9-2" value="Refer the background of the problem" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q2cJAhWrmQRliQ6Wqz9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Q2cJAhWrmQRliQ6Wqz9-4" target="3Q2cJAhWrmQRliQ6Wqz9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q2cJAhWrmQRliQ6Wqz9-4" value="Choose a topic" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q2cJAhWrmQRliQ6Wqz9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Q2cJAhWrmQRliQ6Wqz9-6" target="3Q2cJAhWrmQRliQ6Wqz9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q2cJAhWrmQRliQ6Wqz9-6" value="&amp;nbsp;Refer about researches already done" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q2cJAhWrmQRliQ6Wqz9-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Q2cJAhWrmQRliQ6Wqz9-8" target="3Q2cJAhWrmQRliQ6Wqz9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q2cJAhWrmQRliQ6Wqz9-8" value="Find Data Sets" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q2cJAhWrmQRliQ6Wqz9-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Q2cJAhWrmQRliQ6Wqz9-10" target="3Q2cJAhWrmQRliQ6Wqz9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q2cJAhWrmQRliQ6Wqz9-10" value="Complete Targets" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q2cJAhWrmQRliQ6Wqz9-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Q2cJAhWrmQRliQ6Wqz9-12" target="3Q2cJAhWrmQRliQ6Wqz9-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q2cJAhWrmQRliQ6Wqz9-12" value="Without feature selection check the accuracy of different types of models build using KNN, NB, DTM and etc. and check the cross validation." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="160" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q2cJAhWrmQRliQ6Wqz9-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Q2cJAhWrmQRliQ6Wqz9-14" target="3Q2cJAhWrmQRliQ6Wqz9-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q2cJAhWrmQRliQ6Wqz9-14" value="After selecting different count of features check the accuracy of different types of models build using KNN, NB, DTM and etc. and check the cross validation." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="150" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q2cJAhWrmQRliQ6Wqz9-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Q2cJAhWrmQRliQ6Wqz9-16" target="3Q2cJAhWrmQRliQ6Wqz9-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q2cJAhWrmQRliQ6Wqz9-16" value="Compare the performance of different types of models which created in last steps" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="350" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q2cJAhWrmQRliQ6Wqz9-18" value="Find the best molecule type for detecting DR" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

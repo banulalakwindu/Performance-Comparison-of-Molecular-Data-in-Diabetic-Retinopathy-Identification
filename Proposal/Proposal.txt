@@ -1,0 +1,137 @@
+PERFORMANCE COMPARISON OF DIFFERENT MOLECULAR DATA IN THE IDENTIFICATION OF DIABETIC RETINOPATHY
+
+Chapter 1: Introduction
+1.1 Motivation and Overview
+Diabetes mellitus (DM) is becoming more common in both emerging and wealthy nations. 629 million people will have diabetes worldwide by 2045, according to estimates[1]. A medical disorder called diabetic retinopathy (DR) is brought on by diabetes mellitus (DM). The impairment of glucose metabolism and various micro- and macrovascular abnormalities that result in DM make it a chronic condition. One of the most prevalent and dangerous side effects of DM, DR causes serious blindness by deforming the human retina[2].For prompt intervention and efficient disease treatment, early detection and accurate diagnosis of DR are essential. The detection and categorization of several disorders, including DR, have improved because to developments in molecular data analysis tools in recent years [2] [3]. To ascertain which molecular data modalities provide the most dependable and accurate way of diagnosing DR, a thorough and comparative examination of all available molecular data modalities is still required [4].
+
+Addressing this significant information gap is the driving force behind the present research issue. We hope to greatly advance the fields of medical diagnostics and customized therapy by comparing and assessing diverse molecular data types in the context of DR identification [7]. The creation of more accurate and effective DR detection systems can be facilitated by an awareness of the advantages and disadvantages of various data modalities, which may enhance patient outcomes and advance medical procedures [9]. 
+
+In order to identify diabetic retinopathy, the suggested research compares the effectiveness of numerous molecular data sets in great detail. The application of several molecular data modalities in the context of DR diagnosis has been studied in a number of important research publications, which we shall examine and synthesize in order to achieve this goal [1][2][3][4].
+
+1.2 Aims and Objectives
+The main aim of our research project is to examine and contrast the effectiveness of several molecular data sets in detecting diabetic retinopathy (DR) using machine learning techniques. Diabetic retinopathy is a significant diabetes complication that is still one of the primary causes of blindness globally. Early detection and proper diagnosis of DR are critical for timely intervention and visual loss prevention. Molecular data, such as gene expression profiles, protein biomarkers, and epigenetic markers, hold a lot of promise for improving DR diagnostic accuracy.
+
+Our research's main objectives are:
+a. To collect and arrange relevant diabetic retinopathy molecular data from publically available databases and clinical sources.
+b. To investigate the utility of gene expression patterns, protein biomarkers, and epigenetic markers in detecting and distinguishing diabetic retinopathy.
+c. To assess and compare the performance of various machine learning methods in identifying diabetic retinopathy based on different molecular data, such as support vector machines, random forests, and deep neural networks.
+d. To find the best mix of molecular data and machine learning techniques for detecting diabetic retinopathy accurately and early.
+e. To through data analysis and interpretation, provide insights into the underlying molecular mechanisms and pathways linked with diabetic retinopathy.
+
+1.3 Research Scope
+Our research will concentrate on collecting and preparing various molecular datasets, such as gene expression profiles, protein markers, and other pertinent molecular information on diabetic retinopathy. Based on the molecular data collected, machine learning methods will be assessed and implemented to measure their accuracy and performance in detecting diabetic retinopathy. Ethical issues will be taken into account, and the study will be carried out within a certain timeline, taking into account constraints such as data availability and sample size. The purpose of the research is to shed the spotlight on possible biomarkers for diabetic retinopathy detection and to make suggestions for the use of machine learning-based diagnostic tools in clinical settings.
+
+Chapter 2: Literature Review
+2.1 Introduction
+
+
+2.2 Forecasting Models & Prediction Models
+Prediction models are used to determine whether or not a patient has DR, and forecasting models are used to predict how the condition will develop in the future. Doctors can use either kind of model to assist in deciding how best to treat DR patients. In the diagnosis and treatment of DR, machine learning models have been demonstrated to be highly successful, and as technology advances, they are anticipated to become increasingly more precise and beneficial.
+
+2.2.1 Forecasting Models
+Forecasting models have been used to forecast how DR will develop in the future. Typically, these models are built using previous information about the patient's age, blood sugar levels, and other risk factors. These data are used by the algorithms to find patterns and trends that can be used to forecast the possibility that DR will advance in the future.
+
+Patients who are at risk of vision loss can be identified using forecasting models. The utilization of this data can aid physicians in making decisions regarding patient care, such as initiating early therapy or sending the patient to a specialist.
+
+Listed below are a few forecasting models that have been applied to forecast DR[2]
+a) Support vector machines (SVMs) are a form of machine learning model that can be used to categorize data. SVMs have been demonstrated to be useful in predicting DR and can be used to identify people who are most at risk of contracting the condition.
+b) The machine learning model known as a "random forest" can be used to produce predictions based on a large number of factors. The ability of random forests to predict DR has been demonstrated, and their use in locating people who are most at risk for the condition is now widely accepted.
+c) Using a sequence of yes/no questions, decision trees are a kind of machine learning model that can be employed to produce predictions. Decision trees can be used to identify people who are at a high risk of acquiring DR because they have been demonstrated to be successful at predicting the condition.
+d) A specific type of machine learning model called neural networks is capable of understanding intricate correlations between different types of data. The ability of neural networks to predict DR has been demonstrated, and these technologies can be used to determine the people who are most at risk for the condition.
+
+2.2.2 Prediction Models
+The existence or absence of DR in a patient is predicted using prediction models. Usually, these models are constructed from retinal pictures, such as fundus or OCT images. The models use these pictures to find DR symptoms like abnormalities in the retina or blood vessels.
+
+It is possible to test patients for DR using prediction models. The utilization of this data can aid physicians in making decisions regarding patient care, such as initiating early therapy or sending the patient to a specialist.
+
+Listed below are a few prediction models that have been applied to predict DR[2]
+a) Deep learning models are a type of machine learning model that can be used to learn intricate correlations between data. Deep learning models have been demonstrated to be useful in the diagnosis of DR and can be applied to accurately identify people who are suffering from the condition.
+b) Convolutional neural networks (CNNs) are a kind of deep learning model that are specifically made for image processing. CNNs have been demonstrated to be useful in DR diagnosis and can be used to accurately identify patients who suffer from the condition.
+
+
+
+
+2.3 Performance Analysis
+
+
+2.4 Available Database
+        1.Peripheral venous blood samples [1]
+		including 42 DR patients and 32
+		T2DM patients without DR
+	2.imbalanced dataset [2]
+		7137 images for single
+		lesion and multi-lesion detection. 
+	3.DIARETDB1 ,e-ophtha datasets,MESSIDOR dataset and Kaggle dataset[2]
+		These datasets used for different kind of ML and DL models for image analysis	
+	4.APTOS-2019-Blindness-Detection, and EyePacs datasets [4]
+		To generate retina images by simulating the field of view for a device using the retina images from APTOS-2019-Blindness-Detection, and EyePacs datasets.
+		For both left and right eyes, there are 35,126 retina images are presented in the EyePacs dataset.
+		APTOS-2019-Blindness-Detection is another dataset, produced by the Asia Pacific Tele-Ophthalmology Society (APTOS) as portion of the 2019 blindness finding competition. 3648 high resolution fundus images were selected from the Kaggle dataset of 3661 images by different designs and cameras type in manifold health center on the lengthy time period.
+	5.IDRID and ILSVRC datasets[20]
+		The first dataset prepared for the Indian population for detecting eye disease is the IDRID dataset. Out of thousands of images, experts verified 516
+images to form a dataset based on adequate quality, clinical relevance, and no duplication of images. The dataset includes typical DR lesions and some normal retinal structures. The dataset highlights facts related to the stage of the disease along with the severity of the disease. The dataset contains eighty-one color fundus dataset images having the capability of the DR trace.
+		The dataset of ImageNet Large Scale Visual Recognition Challenge (ILSVRC) is used to train the VGG16 model , with over 122 color fundus images, which was fine-tuned on the IDRID dataset using transfer learning.
+	6. clinical imaging, EHRs, genomics and wearable device datasets.[8]
+		Table 1
+	7.Dataset DIARETDB0 and DIARETDB1 [9]
+		 with 130 and 89 images respectively examined in this experimental work to detect early diabetic retinopathy. Dataset DIARETDB0 & DIARETDB1 gets easily accessible by a site www.it.lut.fi/project/imageret [9]. 
+	8.A blood sample dataset was drawn from each patient after 10 h of overnight fasting.[15]
+		Table 1
+	9.genome-wide association study (GWAS) dataset [16]
+		Caucasian Australians with type 2 diabetes were evaluated in a genome-wide association study (GWAS) to compare 270 DME cases and 176 PDR cases with 435 non-retinopathy controls. All participants were genotyped by SNP array and after data cleaning, cases were compared to controls using logistic regression adjusting for
+relevant covariates.
+	
+2.5 Research Gap
+
+Chapter 3: Methodology and Research Plan
+3.1 Methodology in Brief
+
+3.2 Detailed Methodology
+    3.2.1 Data selection of Diabetic Retinopathy
+	The detection and characterization of diabetic retinopathy (DR) by molecular data analysis is critical for understanding the underlying processes and creating appropriate diagnostic and therapeutic techniques. This section discusses the systematic strategy we will use for data selection from the Gene Expression Omnibus (GEO) at the National Center for Biotechnology Information (NCBI) to assess the performance of different molecular data in the detection of Diabetic Retinopathy.
+	The National Center for Biotechnology Information (NCBI) hosts GEO, which has a large and diversified collection of publicly available gene expression data. GEO is a storehouse of genomic information relating to diverse biological processes, illnesses, and experimental circumstances that researchers from across the world contribute to.
+	We wish to obtain various molecular datasets. As a result, in addition to gene expression data, GEO provides a wide range of omics data, such as microRNA expression, DNA methylation, chromatin accessibility, and more. This integration enables researchers to conduct multi-omics studies, resulting in a more complete knowledge of biological processes and disease causes.
+	These datasets are provided on GEO and NCBI
+		mRNA Gene Expression Datasets
+		Datasets of MicroRNA Expression
+		Datasets on Epigenetics
+		Datasets of ChIP-Seq
+		Datasets for Clinical Research
+		Datasets for Specific Diseases
+	
+	We are decided to get these type of datasets related of DR
+		DNA methylation
+		RNA-Seq
+			totalRNA
+			smallRNA
+	
+	We are taken two datasets from GEO consider above molecular datas
+	GEO accession Number:GSE140842
+		Title:Alterations of 5-Hydroxymethylcytosines in Circulating Cell-free DNA Reflect Retinopathy in Type 2 Diabetes
+		About dataset:This dataset contains genome-wide methylation profiles of circulating cell-free DNA (cfDNA) from 70 Chinese patients with type 2 diabetes mellitus (T2DM), including 35 patients with diabetic retinopathy (DR) and 35 age-, gender-, and diabetic duration-matched controls.
+
+
+	GEO accession Number:GSE160310
+		Title:In-depth transcriptomic analyses investigating molecular mechanisms underlying diabetic retinopathy
+		About dataset:This dataset is a collection of transcriptomic data from human post-mortem retinal samples. The data was collected from 80 patients diagnosed with various stages of diabetic retinopathy (DR). The data was analyzed using RNA-Seq, a high-throughput sequencing technique that can measure gene expression in a sample.
+totalRNA
+smallRNA
+
+	
+    3.2.2 Data preprocessing
+    3.2.3 Feature selection
+    3.2.4 Apply machine learning methods
+    3.2.5 Compare performance
+
+3.3 Timeline
+
+Chapter 4: Progress to date
+4.1 Literature Review
+4.2 Database Collection
+    4.2.1 Phenotype Data selection
+    4.2.2 Dataset Selection
+
+4.3 Database Preparation 
+
+Reference
+
