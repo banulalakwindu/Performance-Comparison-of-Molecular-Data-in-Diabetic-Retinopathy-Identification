@@ -13,11 +13,8 @@
 
 -> (data2.csv) Using Information Gain - mutual_info_classif selected the best (25, 50, 100, 150, 200) features with target -- saved to (data_k_count.csv) -- Dataset06
 
-# Data Visualization
--> (data_k_count.csv) Sca
-
 # Model Building
--> (data_k_count.csv) Using SVM with 5-fold cross validation -- saved to (svm_k_count.csv) -- Dataset07
+-> (data_k_count.csv) model building with cross validation -- Dataset07
 
 SVM, Logistic Regression, ANN, Naive Bayes
 25, 50, 100, 150, 200 
