@@ -54,4 +54,4 @@ Include all notebooks, Python codes, datasets, output images, and documentation 
 
 ## 4. Steps Document
 
-For a detailed account of the steps taken in each code, including feature selection using multiple algorithms and their results, please refer to the [Steps Document](steps_document.md).
+For a detailed account of the steps taken in each code, including every algorithms and their results, please refer to the [Steps Document](steps_document.md).
