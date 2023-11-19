@@ -4,7 +4,8 @@
 
 Diabetes mellitus (DM) is a global health concern, with a rising prevalence worldwide. This research focuses on diabetic retinopathy (DR), a severe condition leading to blindness. The project aims to leverage advancements in molecular data analysis tools for more effective DR detection. The primary goal is to identify the most reliable molecular data methods for diagnosing DR.
 
-![DR Severity Levels](includes/Picture1.png)
+![DR Severity Levels](Includes/Picture1.png)
+
 _Figure 1: Images arranged in increasing severity levels of DR (a) No DR, (b) Mild NPDR, (c) Moderate NPDR, (d) Severe NPDR, (e) PDR_
 
 The research addresses an information gap, intending to contribute to improved medical diagnostics and therapy. By exploring diverse molecular data sources, we aim to enhance patient outcomes and medical procedures.
@@ -30,8 +31,8 @@ The research will focus on gathering and preparing various molecular datasets re
 
 ## Collaborators
 
-- [Your Name]
-- [Friend's Name]
+- [Banula Lakwindu](https://github.com/banulalakwindu)
+- [Fathima Ashfa](https://github.com/ashfa11)
 
 ## 2. Comparative Analysis of Molecular Data Types
 
