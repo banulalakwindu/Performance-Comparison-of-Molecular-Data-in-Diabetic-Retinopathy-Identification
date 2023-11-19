@@ -51,3 +51,7 @@ The research will focus on gathering and preparing various molecular datasets re
 ## 3. Notebooks and Datasets
 
 Include all notebooks, Python codes, datasets, output images, and documentation for each dataset. This section provides a comprehensive overview of the steps taken in the project.
+
+## 4. Steps Document
+
+For a detailed account of the steps taken in each code, including feature selection using multiple algorithms and their results, please refer to the [Steps Document](steps_document.md).
