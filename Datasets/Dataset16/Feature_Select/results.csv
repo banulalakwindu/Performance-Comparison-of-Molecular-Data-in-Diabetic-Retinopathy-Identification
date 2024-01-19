@@ -1,0 +1,1002 @@
+Model Name,Feature Count,CV Score (Mean +/- Std)
+Naive Bayes,51,0.7655 +/- 0.0402
+Naive Bayes,52,0.7655 +/- 0.0402
+Naive Bayes,53,0.7655 +/- 0.0402
+Naive Bayes,45,0.7655 +/- 0.0402
+Naive Bayes,43,0.7586 +/- 0.0488
+Naive Bayes,42,0.7586 +/- 0.0488
+Naive Bayes,49,0.7586 +/- 0.0488
+Naive Bayes,54,0.7586 +/- 0.0488
+Naive Bayes,55,0.7586 +/- 0.0488
+Naive Bayes,56,0.7586 +/- 0.0378
+Random Forest,57,0.7586 +/- 0.0378
+Naive Bayes,60,0.7586 +/- 0.0308
+Random Forest,72,0.7517 +/- 0.0798
+Random Forest,31,0.7517 +/- 0.0669
+Random Forest,46,0.7517 +/- 0.0669
+Random Forest,76,0.7517 +/- 0.0669
+Naive Bayes,41,0.7517 +/- 0.0593
+Naive Bayes,50,0.7517 +/- 0.0593
+SVM(linear),2,0.7517 +/- 0.0593
+Random Forest,66,0.7517 +/- 0.0593
+Naive Bayes,44,0.7517 +/- 0.0593
+Naive Bayes,48,0.7517 +/- 0.0552
+Naive Bayes,47,0.7517 +/- 0.0552
+Naive Bayes,46,0.7517 +/- 0.0552
+Random Forest,119,0.7517 +/- 0.0507
+Naive Bayes,58,0.7517 +/- 0.0402
+Random Forest,92,0.7517 +/- 0.0402
+Random Forest,73,0.7517 +/- 0.0338
+Naive Bayes,59,0.7517 +/- 0.0258
+Naive Bayes,38,0.7448 +/- 0.0640
+Naive Bayes,39,0.7448 +/- 0.0640
+Naive Bayes,40,0.7448 +/- 0.0601
+Random Forest,54,0.7448 +/- 0.0601
+Naive Bayes,57,0.7448 +/- 0.0468
+Random Forest,7,0.7448 +/- 0.0468
+Random Forest,14,0.7448 +/- 0.0468
+Random Forest,30,0.7448 +/- 0.0468
+Naive Bayes,64,0.7448 +/- 0.0352
+Random Forest,16,0.7448 +/- 0.0276
+Random Forest,62,0.7379 +/- 0.0804
+Random Forest,40,0.7379 +/- 0.0710
+Random Forest,34,0.7379 +/- 0.0601
+Random Forest,50,0.7379 +/- 0.0560
+Random Forest,23,0.7379 +/- 0.0560
+Random Forest,86,0.7379 +/- 0.0516
+Naive Bayes,65,0.7379 +/- 0.0414
+Random Forest,65,0.7379 +/- 0.0414
+Naive Bayes,66,0.7379 +/- 0.0414
+Naive Bayes,62,0.7379 +/- 0.0352
+Naive Bayes,67,0.7379 +/- 0.0352
+Random Forest,37,0.7379 +/- 0.0352
+Naive Bayes,61,0.7379 +/- 0.0352
+Random Forest,6,0.7379 +/- 0.0352
+Random Forest,77,0.7379 +/- 0.0276
+Random Forest,64,0.7379 +/- 0.0276
+Random Forest,27,0.7310 +/- 0.0910
+Random Forest,12,0.7310 +/- 0.0856
+Naive Bayes,13,0.7310 +/- 0.0798
+Naive Bayes,14,0.7310 +/- 0.0798
+Random Forest,15,0.7310 +/- 0.0703
+Random Forest,81,0.7310 +/- 0.0669
+Random Forest,59,0.7310 +/- 0.0593
+Random Forest,8,0.7310 +/- 0.0552
+Random Forest,85,0.7310 +/- 0.0552
+Random Forest,115,0.7310 +/- 0.0552
+Random Forest,110,0.7310 +/- 0.0457
+Naive Bayes,7,0.7310 +/- 0.0457
+Naive Bayes,63,0.7310 +/- 0.0402
+Random Forest,49,0.7310 +/- 0.0402
+Random Forest,56,0.7310 +/- 0.0402
+Random Forest,91,0.7310 +/- 0.0338
+Random Forest,140,0.7310 +/- 0.0338
+Naive Bayes,75,0.7310 +/- 0.0338
+Naive Bayes,72,0.7310 +/- 0.0338
+Naive Bayes,71,0.7310 +/- 0.0338
+Naive Bayes,74,0.7310 +/- 0.0338
+Naive Bayes,73,0.7310 +/- 0.0338
+Naive Bayes,70,0.7310 +/- 0.0338
+Naive Bayes,76,0.7310 +/- 0.0338
+Naive Bayes,69,0.7310 +/- 0.0338
+Naive Bayes,68,0.7310 +/- 0.0338
+Random Forest,48,0.7310 +/- 0.0258
+Random Forest,28,0.7241 +/- 0.0951
+Naive Bayes,37,0.7241 +/- 0.0816
+Random Forest,13,0.7241 +/- 0.0786
+Naive Bayes,36,0.7241 +/- 0.0690
+Random Forest,105,0.7241 +/- 0.0617
+Random Forest,32,0.7241 +/- 0.0617
+Random Forest,107,0.7241 +/- 0.0617
+Naive Bayes,33,0.7241 +/- 0.0617
+Random Forest,25,0.7241 +/- 0.0577
+Naive Bayes,34,0.7241 +/- 0.0577
+Naive Bayes,17,0.7241 +/- 0.0577
+Random Forest,29,0.7241 +/- 0.0577
+Random Forest,116,0.7241 +/- 0.0534
+Random Forest,96,0.7241 +/- 0.0488
+Naive Bayes,86,0.7241 +/- 0.0488
+Random Forest,133,0.7241 +/- 0.0436
+Random Forest,79,0.7241 +/- 0.0436
+Naive Bayes,77,0.7241 +/- 0.0436
+Random Forest,121,0.7241 +/- 0.0436
+Logistic Regression,2,0.7241 +/- 0.0378
+Random Forest,89,0.7241 +/- 0.0378
+Random Forest,130,0.7241 +/- 0.0378
+Naive Bayes,85,0.7241 +/- 0.0308
+Random Forest,52,0.7241 +/- 0.0218
+Random Forest,44,0.7241 +/- 0.0218
+Random Forest,99,0.7241 +/- 0.0218
+Random Forest,71,0.7172 +/- 0.0910
+Random Forest,26,0.7172 +/- 0.0856
+Naive Bayes,35,0.7172 +/- 0.0798
+Naive Bayes,18,0.7172 +/- 0.0736
+Naive Bayes,31,0.7172 +/- 0.0669
+Naive Bayes,21,0.7172 +/- 0.0669
+Naive Bayes,32,0.7172 +/- 0.0669
+Naive Bayes,15,0.7172 +/- 0.0669
+Random Forest,18,0.7172 +/- 0.0593
+SVM(linear),4,0.7172 +/- 0.0593
+Random Forest,78,0.7172 +/- 0.0507
+Random Forest,43,0.7172 +/- 0.0507
+Random Forest,55,0.7172 +/- 0.0402
+Random Forest,90,0.7172 +/- 0.0402
+Random Forest,135,0.7172 +/- 0.0402
+Naive Bayes,89,0.7172 +/- 0.0338
+Naive Bayes,88,0.7172 +/- 0.0338
+Naive Bayes,83,0.7172 +/- 0.0338
+Random Forest,70,0.7172 +/- 0.0338
+Random Forest,141,0.7172 +/- 0.0258
+Random Forest,58,0.7172 +/- 0.0258
+Random Forest,68,0.7172 +/- 0.0258
+Naive Bayes,8,0.7172 +/- 0.0258
+Random Forest,61,0.7172 +/- 0.0258
+Naive Bayes,84,0.7172 +/- 0.0258
+Naive Bayes,82,0.7172 +/- 0.0258
+Random Forest,38,0.7103 +/- 0.0889
+Random Forest,17,0.7103 +/- 0.0833
+Random Forest,22,0.7103 +/- 0.0833
+Naive Bayes,20,0.7103 +/- 0.0774
+Naive Bayes,19,0.7103 +/- 0.0774
+Random Forest,113,0.7103 +/- 0.0710
+Random Forest,143,0.7103 +/- 0.0676
+Random Forest,21,0.7103 +/- 0.0640
+Random Forest,67,0.7103 +/- 0.0560
+Random Forest,11,0.7103 +/- 0.0560
+Random Forest,127,0.7103 +/- 0.0560
+Random Forest,39,0.7103 +/- 0.0516
+Random Forest,36,0.7103 +/- 0.0516
+Random Forest,128,0.7103 +/- 0.0516
+Naive Bayes,2,0.7103 +/- 0.0516
+ANN,4,0.7103 +/- 0.0516
+Random Forest,45,0.7103 +/- 0.0468
+Random Forest,47,0.7103 +/- 0.0468
+Random Forest,114,0.7103 +/- 0.0468
+Logistic Regression,5,0.7103 +/- 0.0468
+Random Forest,131,0.7103 +/- 0.0414
+Naive Bayes,87,0.7103 +/- 0.0414
+Naive Bayes,10,0.7103 +/- 0.0352
+Random Forest,106,0.7103 +/- 0.0352
+SVM(linear),10,0.7103 +/- 0.0352
+Random Forest,63,0.7103 +/- 0.0352
+ANN,13,0.7103 +/- 0.0352
+Random Forest,122,0.7103 +/- 0.0352
+Random Forest,95,0.7103 +/- 0.0276
+ANN,6,0.7103 +/- 0.0276
+Random Forest,33,0.7103 +/- 0.0276
+Random Forest,118,0.7103 +/- 0.0276
+ANN,15,0.7103 +/- 0.0169
+Random Forest,137,0.7103 +/- 0.0169
+Random Forest,87,0.7103 +/- 0.0169
+Random Forest,103,0.7103 +/- 0.0169
+Random Forest,51,0.7103 +/- 0.0169
+Naive Bayes,22,0.7034 +/- 0.0833
+Random Forest,41,0.7034 +/- 0.0710
+Logistic Regression,4,0.7034 +/- 0.0640
+Random Forest,60,0.7034 +/- 0.0601
+Naive Bayes,16,0.7034 +/- 0.0560
+Naive Bayes,90,0.7034 +/- 0.0516
+Logistic Regression,11,0.7034 +/- 0.0468
+ANN,3,0.7034 +/- 0.0468
+Random Forest,74,0.7034 +/- 0.0414
+Random Forest,126,0.7034 +/- 0.0352
+SVM(poly),2,0.7034 +/- 0.0352
+Random Forest,9,0.7034 +/- 0.0352
+Naive Bayes,78,0.7034 +/- 0.0276
+SVM(poly),6,0.7034 +/- 0.0276
+Random Forest,80,0.7034 +/- 0.0276
+Naive Bayes,81,0.7034 +/- 0.0276
+Random Forest,100,0.7034 +/- 0.0169
+Random Forest,69,0.7034 +/- 0.0169
+Naive Bayes,23,0.6966 +/- 0.0798
+Random Forest,24,0.6966 +/- 0.0798
+Naive Bayes,24,0.6966 +/- 0.0768
+ANN,43,0.6966 +/- 0.0593
+Random Forest,101,0.6966 +/- 0.0593
+Naive Bayes,93,0.6966 +/- 0.0507
+Naive Bayes,92,0.6966 +/- 0.0507
+Random Forest,5,0.6966 +/- 0.0507
+Random Forest,94,0.6966 +/- 0.0507
+ANN,2,0.6966 +/- 0.0457
+Random Forest,124,0.6966 +/- 0.0457
+SVM(linear),15,0.6966 +/- 0.0457
+Logistic Regression,14,0.6966 +/- 0.0457
+Naive Bayes,12,0.6966 +/- 0.0402
+Random Forest,20,0.6966 +/- 0.0402
+ANN,14,0.6966 +/- 0.0402
+Random Forest,19,0.6966 +/- 0.0402
+Random Forest,83,0.6966 +/- 0.0402
+ANN,11,0.6966 +/- 0.0402
+ANN,8,0.6966 +/- 0.0402
+ANN,5,0.6966 +/- 0.0402
+ANN,45,0.6966 +/- 0.0338
+SVM(poly),3,0.6966 +/- 0.0338
+Naive Bayes,80,0.6966 +/- 0.0338
+Naive Bayes,79,0.6966 +/- 0.0338
+Logistic Regression,13,0.6966 +/- 0.0258
+Random Forest,53,0.6966 +/- 0.0258
+ANN,9,0.6966 +/- 0.0258
+ANN,12,0.6966 +/- 0.0258
+Random Forest,97,0.6966 +/- 0.0258
+Naive Bayes,9,0.6966 +/- 0.0258
+SVM(linear),11,0.6966 +/- 0.0138
+Random Forest,111,0.6966 +/- 0.0138
+Random Forest,84,0.6966 +/- 0.0138
+Naive Bayes,27,0.6897 +/- 0.0845
+Naive Bayes,26,0.6897 +/- 0.0845
+Naive Bayes,28,0.6897 +/- 0.0786
+XGBoost,6,0.6897 +/- 0.0786
+Naive Bayes,4,0.6897 +/- 0.0723
+Naive Bayes,30,0.6897 +/- 0.0617
+Random Forest,75,0.6897 +/- 0.0617
+Random Forest,109,0.6897 +/- 0.0577
+SVM(linear),5,0.6897 +/- 0.0577
+SVM(poly),11,0.6897 +/- 0.0577
+Logistic Regression,45,0.6897 +/- 0.0488
+Logistic Regression,44,0.6897 +/- 0.0488
+Logistic Regression,7,0.6897 +/- 0.0488
+ANN,24,0.6897 +/- 0.0488
+Random Forest,93,0.6897 +/- 0.0436
+Logistic Regression,15,0.6897 +/- 0.0436
+Naive Bayes,91,0.6897 +/- 0.0436
+Random Forest,136,0.6897 +/- 0.0436
+Random Forest,129,0.6897 +/- 0.0436
+SVM(linear),8,0.6897 +/- 0.0436
+SVM(poly),12,0.6897 +/- 0.0436
+Random Forest,117,0.6897 +/- 0.0378
+SVM(poly),8,0.6897 +/- 0.0378
+ANN,46,0.6897 +/- 0.0308
+SVM(linear),50,0.6897 +/- 0.0308
+Logistic Regression,12,0.6897 +/- 0.0308
+ANN,58,0.6897 +/- 0.0308
+SVM(poly),5,0.6897 +/- 0.0308
+Random Forest,42,0.6897 +/- 0.0308
+ANN,47,0.6897 +/- 0.0308
+ANN,19,0.6897 +/- 0.0308
+SVM(linear),13,0.6897 +/- 0.0218
+SVM(linear),7,0.6897 +/- 0.0218
+Random Forest,104,0.6897 +/- 0.0218
+Random Forest,142,0.6897 +/- 0.0218
+Random Forest,125,0.6897 +/- 0.0218
+SVM(poly),9,0.6897 +/- 0.0218
+Naive Bayes,25,0.6828 +/- 0.0703
+Naive Bayes,5,0.6828 +/- 0.0669
+Naive Bayes,103,0.6828 +/- 0.0669
+ANN,10,0.6828 +/- 0.0593
+Random Forest,3,0.6828 +/- 0.0552
+ANN,112,0.6828 +/- 0.0552
+ANN,39,0.6828 +/- 0.0507
+Naive Bayes,94,0.6828 +/- 0.0507
+SVM(linear),14,0.6828 +/- 0.0507
+ANN,23,0.6828 +/- 0.0507
+SVM(linear),139,0.6828 +/- 0.0457
+SVM(poly),4,0.6828 +/- 0.0457
+Naive Bayes,116,0.6828 +/- 0.0402
+Random Forest,123,0.6828 +/- 0.0402
+Random Forest,82,0.6828 +/- 0.0402
+Naive Bayes,11,0.6828 +/- 0.0402
+SVM(linear),9,0.6828 +/- 0.0402
+ANN,63,0.6828 +/- 0.0402
+SVM(linear),3,0.6828 +/- 0.0402
+SVM(linear),48,0.6828 +/- 0.0402
+Naive Bayes,6,0.6828 +/- 0.0402
+Random Forest,88,0.6828 +/- 0.0402
+Random Forest,10,0.6828 +/- 0.0338
+ANN,31,0.6828 +/- 0.0338
+Random Forest,108,0.6828 +/- 0.0338
+ANN,20,0.6828 +/- 0.0338
+SVM(poly),7,0.6828 +/- 0.0258
+Random Forest,35,0.6828 +/- 0.0258
+SVM(linear),12,0.6828 +/- 0.0258
+SVM(linear),49,0.6828 +/- 0.0258
+ANN,26,0.6828 +/- 0.0258
+ANN,27,0.6759 +/- 0.0743
+SVM(linear),137,0.6759 +/- 0.0710
+SVM(linear),138,0.6759 +/- 0.0710
+Logistic Regression,9,0.6759 +/- 0.0710
+Logistic Regression,10,0.6759 +/- 0.0710
+SVM(linear),136,0.6759 +/- 0.0710
+XGBoost,40,0.6759 +/- 0.0640
+Naive Bayes,29,0.6759 +/- 0.0640
+Logistic Regression,39,0.6759 +/- 0.0601
+SVM(linear),140,0.6759 +/- 0.0560
+SVM(linear),100,0.6759 +/- 0.0560
+Naive Bayes,105,0.6759 +/- 0.0516
+ANN,29,0.6759 +/- 0.0516
+Naive Bayes,104,0.6759 +/- 0.0516
+Logistic Regression,43,0.6759 +/- 0.0468
+ANN,22,0.6759 +/- 0.0468
+ANN,53,0.6759 +/- 0.0468
+ANN,7,0.6759 +/- 0.0468
+ANN,94,0.6759 +/- 0.0468
+Random Forest,134,0.6759 +/- 0.0468
+ANN,21,0.6759 +/- 0.0414
+Logistic Regression,30,0.6759 +/- 0.0414
+ANN,57,0.6759 +/- 0.0414
+SVM(poly),14,0.6759 +/- 0.0414
+Random Forest,132,0.6759 +/- 0.0414
+Naive Bayes,3,0.6759 +/- 0.0414
+ANN,70,0.6759 +/- 0.0352
+Random Forest,102,0.6759 +/- 0.0352
+ANN,38,0.6759 +/- 0.0352
+Naive Bayes,115,0.6759 +/- 0.0352
+SVM(poly),15,0.6759 +/- 0.0352
+Logistic Regression,8,0.6759 +/- 0.0352
+ANN,60,0.6759 +/- 0.0352
+Naive Bayes,121,0.6759 +/- 0.0276
+ANN,59,0.6759 +/- 0.0276
+ANN,143,0.6759 +/- 0.0276
+Random Forest,139,0.6759 +/- 0.0169
+XGBoost,20,0.6690 +/- 0.1125
+Random Forest,2,0.6690 +/- 0.0889
+Naive Bayes,96,0.6690 +/- 0.0710
+XGBoost,28,0.6690 +/- 0.0710
+Naive Bayes,95,0.6690 +/- 0.0710
+SVM(linear),142,0.6690 +/- 0.0676
+SVM(linear),143,0.6690 +/- 0.0676
+Random Forest,120,0.6690 +/- 0.0640
+ANN,118,0.6690 +/- 0.0640
+ANN,83,0.6690 +/- 0.0640
+Logistic Regression,6,0.6690 +/- 0.0640
+SVM(linear),135,0.6690 +/- 0.0640
+SVM(linear),134,0.6690 +/- 0.0640
+SVM(poly),10,0.6690 +/- 0.0601
+ANN,62,0.6690 +/- 0.0560
+Logistic Regression,37,0.6690 +/- 0.0560
+Logistic Regression,36,0.6690 +/- 0.0560
+ANN,138,0.6690 +/- 0.0560
+ANN,28,0.6690 +/- 0.0560
+ANN,133,0.6690 +/- 0.0560
+ANN,18,0.6690 +/- 0.0516
+Logistic Regression,38,0.6690 +/- 0.0516
+SVM(linear),47,0.6690 +/- 0.0516
+ANN,56,0.6690 +/- 0.0516
+Naive Bayes,106,0.6690 +/- 0.0516
+ANN,132,0.6690 +/- 0.0468
+Naive Bayes,126,0.6690 +/- 0.0468
+SVM(linear),6,0.6690 +/- 0.0468
+ANN,30,0.6690 +/- 0.0468
+ANN,66,0.6690 +/- 0.0468
+SVM(poly),13,0.6690 +/- 0.0468
+SVM(linear),42,0.6690 +/- 0.0414
+Logistic Regression,31,0.6690 +/- 0.0352
+Logistic Regression,29,0.6690 +/- 0.0352
+ANN,48,0.6690 +/- 0.0352
+ANN,44,0.6690 +/- 0.0352
+Random Forest,98,0.6690 +/- 0.0352
+ANN,116,0.6690 +/- 0.0352
+ANN,129,0.6690 +/- 0.0352
+ANN,93,0.6690 +/- 0.0352
+ANN,65,0.6690 +/- 0.0276
+ANN,141,0.6690 +/- 0.0169
+Random Forest,1,0.6621 +/- 0.0798
+XGBoost,1,0.6621 +/- 0.0798
+ANN,37,0.6621 +/- 0.0736
+ANN,35,0.6621 +/- 0.0669
+Naive Bayes,100,0.6621 +/- 0.0669
+Naive Bayes,97,0.6621 +/- 0.0669
+SVM(linear),141,0.6621 +/- 0.0669
+Naive Bayes,98,0.6621 +/- 0.0669
+SVM(linear),133,0.6621 +/- 0.0632
+XGBoost,3,0.6621 +/- 0.0632
+SVM(linear),132,0.6621 +/- 0.0632
+XGBoost,12,0.6621 +/- 0.0632
+Logistic Regression,40,0.6621 +/- 0.0632
+ANN,64,0.6621 +/- 0.0593
+Naive Bayes,127,0.6621 +/- 0.0552
+Naive Bayes,129,0.6621 +/- 0.0552
+ANN,140,0.6621 +/- 0.0552
+Naive Bayes,128,0.6621 +/- 0.0552
+SVM(linear),40,0.6621 +/- 0.0552
+Logistic Regression,32,0.6621 +/- 0.0507
+ANN,130,0.6621 +/- 0.0507
+SVM(poly),17,0.6621 +/- 0.0507
+SVM(linear),43,0.6621 +/- 0.0507
+Naive Bayes,120,0.6621 +/- 0.0457
+ANN,41,0.6621 +/- 0.0457
+ANN,115,0.6621 +/- 0.0457
+XGBoost,39,0.6621 +/- 0.0457
+ANN,99,0.6621 +/- 0.0457
+ANN,100,0.6621 +/- 0.0457
+ANN,87,0.6621 +/- 0.0457
+Logistic Regression,3,0.6621 +/- 0.0402
+ANN,127,0.6621 +/- 0.0402
+Naive Bayes,114,0.6621 +/- 0.0402
+Logistic Regression,49,0.6621 +/- 0.0402
+ANN,95,0.6621 +/- 0.0402
+Naive Bayes,125,0.6621 +/- 0.0402
+Naive Bayes,117,0.6621 +/- 0.0402
+XGBoost,35,0.6621 +/- 0.0402
+SVM(linear),99,0.6621 +/- 0.0402
+XGBoost,124,0.6621 +/- 0.0338
+XGBoost,115,0.6621 +/- 0.0338
+Naive Bayes,123,0.6621 +/- 0.0338
+XGBoost,131,0.6621 +/- 0.0338
+XGBoost,126,0.6621 +/- 0.0338
+XGBoost,129,0.6621 +/- 0.0338
+XGBoost,122,0.6621 +/- 0.0338
+ANN,50,0.6621 +/- 0.0338
+XGBoost,128,0.6621 +/- 0.0338
+XGBoost,111,0.6621 +/- 0.0338
+XGBoost,119,0.6621 +/- 0.0338
+XGBoost,127,0.6621 +/- 0.0338
+XGBoost,125,0.6621 +/- 0.0338
+XGBoost,117,0.6621 +/- 0.0338
+XGBoost,121,0.6621 +/- 0.0338
+Naive Bayes,122,0.6621 +/- 0.0338
+XGBoost,134,0.6621 +/- 0.0338
+XGBoost,114,0.6621 +/- 0.0338
+XGBoost,136,0.6621 +/- 0.0338
+XGBoost,118,0.6621 +/- 0.0338
+XGBoost,113,0.6621 +/- 0.0338
+XGBoost,123,0.6621 +/- 0.0338
+XGBoost,120,0.6621 +/- 0.0338
+XGBoost,133,0.6621 +/- 0.0338
+XGBoost,38,0.6621 +/- 0.0338
+XGBoost,135,0.6621 +/- 0.0338
+XGBoost,137,0.6621 +/- 0.0338
+XGBoost,130,0.6621 +/- 0.0338
+XGBoost,112,0.6621 +/- 0.0338
+XGBoost,116,0.6621 +/- 0.0338
+XGBoost,132,0.6621 +/- 0.0338
+Logistic Regression,42,0.6621 +/- 0.0258
+ANN,86,0.6621 +/- 0.0258
+ANN,40,0.6621 +/- 0.0258
+Random Forest,112,0.6621 +/- 0.0258
+Random Forest,4,0.6552 +/- 0.0816
+XGBoost,11,0.6552 +/- 0.0755
+XGBoost,33,0.6552 +/- 0.0723
+XGBoost,32,0.6552 +/- 0.0723
+Naive Bayes,102,0.6552 +/- 0.0690
+XGBoost,4,0.6552 +/- 0.0690
+Naive Bayes,101,0.6552 +/- 0.0690
+Naive Bayes,99,0.6552 +/- 0.0654
+Logistic Regression,46,0.6552 +/- 0.0617
+ANN,124,0.6552 +/- 0.0617
+Naive Bayes,138,0.6552 +/- 0.0577
+Naive Bayes,107,0.6552 +/- 0.0577
+Random Forest,138,0.6552 +/- 0.0577
+ANN,17,0.6552 +/- 0.0577
+Naive Bayes,137,0.6552 +/- 0.0577
+Naive Bayes,139,0.6552 +/- 0.0577
+ANN,125,0.6552 +/- 0.0534
+ANN,113,0.6552 +/- 0.0534
+ANN,98,0.6552 +/- 0.0488
+SVM(linear),52,0.6552 +/- 0.0488
+XGBoost,43,0.6552 +/- 0.0488
+Logistic Regression,50,0.6552 +/- 0.0488
+SVM(poly),16,0.6552 +/- 0.0436
+XGBoost,138,0.6552 +/- 0.0436
+ANN,69,0.6552 +/- 0.0436
+Naive Bayes,119,0.6552 +/- 0.0436
+ANN,55,0.6552 +/- 0.0436
+ANN,36,0.6552 +/- 0.0436
+Naive Bayes,118,0.6552 +/- 0.0436
+XGBoost,93,0.6552 +/- 0.0436
+ANN,139,0.6552 +/- 0.0436
+Naive Bayes,124,0.6552 +/- 0.0378
+SVM(linear),46,0.6552 +/- 0.0378
+SVM(linear),91,0.6552 +/- 0.0378
+Naive Bayes,113,0.6552 +/- 0.0378
+SVM(linear),45,0.6552 +/- 0.0378
+ANN,61,0.6552 +/- 0.0378
+ANN,88,0.6552 +/- 0.0378
+ANN,51,0.6552 +/- 0.0378
+Naive Bayes,112,0.6552 +/- 0.0378
+XGBoost,73,0.6552 +/- 0.0308
+ANN,137,0.6552 +/- 0.0308
+XGBoost,74,0.6552 +/- 0.0308
+XGBoost,67,0.6552 +/- 0.0308
+XGBoost,75,0.6552 +/- 0.0308
+ANN,85,0.6552 +/- 0.0308
+Logistic Regression,55,0.6552 +/- 0.0308
+ANN,42,0.6552 +/- 0.0308
+XGBoost,68,0.6552 +/- 0.0308
+SVM(linear),26,0.6552 +/- 0.0218
+ANN,81,0.6552 +/- 0.0218
+Logistic Regression,56,0.6552 +/- 0.0218
+ANN,89,0.6552 +/- 0.0218
+XGBoost,41,0.6552 +/- 0.0218
+ANN,142,0.6552 +/- 0.0218
+XGBoost,22,0.6483 +/- 0.0961
+XGBoost,21,0.6483 +/- 0.0961
+XGBoost,30,0.6483 +/- 0.0856
+XGBoost,29,0.6483 +/- 0.0856
+XGBoost,25,0.6483 +/- 0.0798
+XGBoost,7,0.6483 +/- 0.0798
+Logistic Regression,89,0.6483 +/- 0.0798
+Logistic Regression,111,0.6483 +/- 0.0736
+Logistic Regression,112,0.6483 +/- 0.0736
+SVM(linear),56,0.6483 +/- 0.0703
+SVM(linear),38,0.6483 +/- 0.0669
+SVM(linear),39,0.6483 +/- 0.0632
+ANN,126,0.6483 +/- 0.0593
+Logistic Regression,53,0.6483 +/- 0.0593
+ANN,72,0.6483 +/- 0.0593
+SVM(linear),54,0.6483 +/- 0.0593
+Logistic Regression,54,0.6483 +/- 0.0593
+Logistic Regression,48,0.6483 +/- 0.0593
+Logistic Regression,117,0.6483 +/- 0.0552
+Logistic Regression,116,0.6483 +/- 0.0552
+Naive Bayes,136,0.6483 +/- 0.0552
+ANN,32,0.6483 +/- 0.0552
+SVM(linear),98,0.6483 +/- 0.0552
+Logistic Regression,41,0.6483 +/- 0.0552
+SVM(linear),53,0.6483 +/- 0.0552
+SVM(linear),58,0.6483 +/- 0.0552
+SVM(linear),131,0.6483 +/- 0.0552
+SVM(linear),55,0.6483 +/- 0.0552
+SVM(linear),130,0.6483 +/- 0.0552
+Naive Bayes,109,0.6483 +/- 0.0552
+Naive Bayes,111,0.6483 +/- 0.0552
+Naive Bayes,108,0.6483 +/- 0.0552
+Logistic Regression,114,0.6483 +/- 0.0552
+Logistic Regression,115,0.6483 +/- 0.0552
+ANN,49,0.6483 +/- 0.0507
+ANN,97,0.6483 +/- 0.0507
+ANN,131,0.6483 +/- 0.0507
+SVM(linear),31,0.6483 +/- 0.0507
+ANN,80,0.6483 +/- 0.0507
+ANN,135,0.6483 +/- 0.0507
+ANN,114,0.6483 +/- 0.0507
+ANN,54,0.6483 +/- 0.0507
+Naive Bayes,133,0.6483 +/- 0.0457
+SVM(linear),44,0.6483 +/- 0.0457
+ANN,76,0.6483 +/- 0.0457
+XGBoost,36,0.6483 +/- 0.0457
+ANN,121,0.6483 +/- 0.0402
+XGBoost,70,0.6483 +/- 0.0402
+XGBoost,71,0.6483 +/- 0.0402
+Logistic Regression,47,0.6483 +/- 0.0402
+XGBoost,72,0.6483 +/- 0.0402
+Logistic Regression,136,0.6483 +/- 0.0402
+Logistic Regression,17,0.6483 +/- 0.0402
+Logistic Regression,137,0.6483 +/- 0.0402
+XGBoost,61,0.6483 +/- 0.0402
+SVM(linear),104,0.6483 +/- 0.0402
+XGBoost,27,0.6483 +/- 0.0402
+XGBoost,76,0.6483 +/- 0.0402
+SVM(linear),103,0.6483 +/- 0.0402
+XGBoost,78,0.6483 +/- 0.0402
+XGBoost,77,0.6483 +/- 0.0402
+XGBoost,79,0.6483 +/- 0.0402
+XGBoost,54,0.6483 +/- 0.0338
+XGBoost,69,0.6483 +/- 0.0338
+ANN,106,0.6483 +/- 0.0338
+ANN,134,0.6483 +/- 0.0338
+XGBoost,66,0.6483 +/- 0.0258
+XGBoost,31,0.6483 +/- 0.0258
+XGBoost,53,0.6483 +/- 0.0258
+Logistic Regression,61,0.6483 +/- 0.0258
+Logistic Regression,18,0.6483 +/- 0.0258
+SVM(linear),30,0.6483 +/- 0.0258
+XGBoost,65,0.6483 +/- 0.0258
+Logistic Regression,19,0.6483 +/- 0.0258
+Logistic Regression,35,0.6483 +/- 0.0258
+XGBoost,2,0.6414 +/- 0.0915
+XGBoost,34,0.6414 +/- 0.0833
+Logistic Regression,110,0.6414 +/- 0.0804
+Logistic Regression,103,0.6414 +/- 0.0804
+Logistic Regression,105,0.6414 +/- 0.0804
+Logistic Regression,104,0.6414 +/- 0.0804
+Logistic Regression,107,0.6414 +/- 0.0804
+Logistic Regression,106,0.6414 +/- 0.0804
+Logistic Regression,109,0.6414 +/- 0.0804
+Logistic Regression,108,0.6414 +/- 0.0804
+Logistic Regression,99,0.6414 +/- 0.0743
+ANN,16,0.6414 +/- 0.0743
+Logistic Regression,88,0.6414 +/- 0.0743
+SVM(linear),57,0.6414 +/- 0.0710
+SVM(linear),127,0.6414 +/- 0.0710
+SVM(linear),126,0.6414 +/- 0.0710
+ANN,67,0.6414 +/- 0.0676
+ANN,101,0.6414 +/- 0.0676
+Logistic Regression,97,0.6414 +/- 0.0640
+Logistic Regression,119,0.6414 +/- 0.0601
+Logistic Regression,118,0.6414 +/- 0.0601
+Logistic Regression,120,0.6414 +/- 0.0601
+XGBoost,140,0.6414 +/- 0.0601
+Logistic Regression,121,0.6414 +/- 0.0601
+XGBoost,141,0.6414 +/- 0.0601
+XGBoost,139,0.6414 +/- 0.0601
+Logistic Regression,122,0.6414 +/- 0.0601
+XGBoost,143,0.6414 +/- 0.0601
+Logistic Regression,128,0.6414 +/- 0.0601
+Logistic Regression,125,0.6414 +/- 0.0601
+XGBoost,142,0.6414 +/- 0.0601
+Logistic Regression,124,0.6414 +/- 0.0601
+Logistic Regression,123,0.6414 +/- 0.0601
+Logistic Regression,126,0.6414 +/- 0.0601
+Logistic Regression,127,0.6414 +/- 0.0601
+ANN,34,0.6414 +/- 0.0560
+ANN,73,0.6414 +/- 0.0560
+ANN,90,0.6414 +/- 0.0560
+SVM(linear),128,0.6414 +/- 0.0560
+ANN,96,0.6414 +/- 0.0560
+XGBoost,19,0.6414 +/- 0.0560
+ANN,91,0.6414 +/- 0.0560
+SVM(linear),94,0.6414 +/- 0.0560
+Naive Bayes,110,0.6414 +/- 0.0560
+SVM(linear),129,0.6414 +/- 0.0560
+Logistic Regression,34,0.6414 +/- 0.0560
+Logistic Regression,33,0.6414 +/- 0.0560
+SVM(linear),102,0.6414 +/- 0.0516
+SVM(poly),138,0.6414 +/- 0.0516
+Naive Bayes,132,0.6414 +/- 0.0516
+SVM(poly),119,0.6414 +/- 0.0516
+SVM(poly),136,0.6414 +/- 0.0516
+Logistic Regression,131,0.6414 +/- 0.0516
+SVM(poly),120,0.6414 +/- 0.0516
+SVM(poly),140,0.6414 +/- 0.0516
+SVM(poly),117,0.6414 +/- 0.0516
+SVM(poly),123,0.6414 +/- 0.0516
+SVM(poly),137,0.6414 +/- 0.0516
+SVM(poly),130,0.6414 +/- 0.0516
+SVM(poly),133,0.6414 +/- 0.0516
+SVM(poly),125,0.6414 +/- 0.0516
+SVM(poly),142,0.6414 +/- 0.0516
+XGBoost,37,0.6414 +/- 0.0516
+ANN,68,0.6414 +/- 0.0516
+SVM(poly),127,0.6414 +/- 0.0516
+Logistic Regression,130,0.6414 +/- 0.0516
+SVM(poly),116,0.6414 +/- 0.0516
+SVM(linear),101,0.6414 +/- 0.0516
+SVM(poly),131,0.6414 +/- 0.0516
+SVM(poly),118,0.6414 +/- 0.0516
+SVM(poly),114,0.6414 +/- 0.0516
+SVM(poly),132,0.6414 +/- 0.0516
+SVM(poly),128,0.6414 +/- 0.0516
+SVM(poly),141,0.6414 +/- 0.0516
+SVM(poly),122,0.6414 +/- 0.0516
+SVM(poly),135,0.6414 +/- 0.0516
+SVM(poly),139,0.6414 +/- 0.0516
+SVM(poly),115,0.6414 +/- 0.0516
+SVM(poly),126,0.6414 +/- 0.0516
+SVM(poly),113,0.6414 +/- 0.0516
+SVM(poly),134,0.6414 +/- 0.0516
+Naive Bayes,131,0.6414 +/- 0.0516
+SVM(poly),124,0.6414 +/- 0.0516
+SVM(poly),143,0.6414 +/- 0.0516
+SVM(poly),129,0.6414 +/- 0.0516
+SVM(poly),121,0.6414 +/- 0.0516
+XGBoost,97,0.6414 +/- 0.0468
+XGBoost,94,0.6414 +/- 0.0468
+ANN,79,0.6414 +/- 0.0468
+SVM(linear),114,0.6414 +/- 0.0468
+Naive Bayes,134,0.6414 +/- 0.0468
+XGBoost,95,0.6414 +/- 0.0468
+XGBoost,96,0.6414 +/- 0.0468
+SVM(linear),120,0.6414 +/- 0.0468
+ANN,108,0.6414 +/- 0.0414
+XGBoost,92,0.6414 +/- 0.0414
+XGBoost,110,0.6414 +/- 0.0414
+XGBoost,91,0.6414 +/- 0.0414
+Logistic Regression,51,0.6414 +/- 0.0414
+Logistic Regression,16,0.6414 +/- 0.0414
+XGBoost,82,0.6414 +/- 0.0352
+SVM(linear),19,0.6414 +/- 0.0352
+XGBoost,64,0.6414 +/- 0.0352
+XGBoost,81,0.6414 +/- 0.0352
+XGBoost,83,0.6414 +/- 0.0352
+Logistic Regression,64,0.6414 +/- 0.0352
+SVM(linear),28,0.6414 +/- 0.0352
+XGBoost,63,0.6414 +/- 0.0352
+SVM(linear),27,0.6414 +/- 0.0352
+Logistic Regression,135,0.6414 +/- 0.0352
+XGBoost,80,0.6414 +/- 0.0352
+SVM(linear),17,0.6414 +/- 0.0352
+SVM(linear),85,0.6414 +/- 0.0352
+ANN,104,0.6414 +/- 0.0352
+ANN,103,0.6414 +/- 0.0276
+ANN,128,0.6414 +/- 0.0276
+Logistic Regression,70,0.6414 +/- 0.0276
+ANN,52,0.6414 +/- 0.0276
+ANN,84,0.6414 +/- 0.0276
+Logistic Regression,25,0.6414 +/- 0.0276
+ANN,136,0.6414 +/- 0.0276
+XGBoost,50,0.6414 +/- 0.0276
+SVM(linear),51,0.6414 +/- 0.0276
+SVM(linear),20,0.6414 +/- 0.0169
+SVM(linear),25,0.6414 +/- 0.0169
+ANN,78,0.6414 +/- 0.0169
+Logistic Regression,28,0.6414 +/- 0.0169
+Logistic Regression,100,0.6345 +/- 0.0804
+Naive Bayes,135,0.6345 +/- 0.0804
+XGBoost,15,0.6345 +/- 0.0804
+Logistic Regression,82,0.6345 +/- 0.0774
+Logistic Regression,86,0.6345 +/- 0.0743
+Logistic Regression,87,0.6345 +/- 0.0743
+ANN,110,0.6345 +/- 0.0743
+SVM(poly),38,0.6345 +/- 0.0710
+Logistic Regression,96,0.6345 +/- 0.0710
+Logistic Regression,94,0.6345 +/- 0.0710
+Logistic Regression,80,0.6345 +/- 0.0710
+Logistic Regression,93,0.6345 +/- 0.0640
+SVM(linear),125,0.6345 +/- 0.0640
+Logistic Regression,138,0.6345 +/- 0.0640
+Logistic Regression,83,0.6345 +/- 0.0640
+SVM(linear),107,0.6345 +/- 0.0640
+SVM(linear),124,0.6345 +/- 0.0640
+XGBoost,8,0.6345 +/- 0.0640
+SVM(poly),109,0.6345 +/- 0.0601
+SVM(poly),108,0.6345 +/- 0.0601
+Logistic Regression,78,0.6345 +/- 0.0601
+SVM(poly),98,0.6345 +/- 0.0601
+SVM(poly),88,0.6345 +/- 0.0601
+SVM(poly),104,0.6345 +/- 0.0601
+Logistic Regression,79,0.6345 +/- 0.0601
+SVM(poly),111,0.6345 +/- 0.0601
+SVM(poly),110,0.6345 +/- 0.0601
+Logistic Regression,74,0.6345 +/- 0.0601
+SVM(poly),112,0.6345 +/- 0.0601
+SVM(poly),99,0.6345 +/- 0.0601
+Logistic Regression,141,0.6345 +/- 0.0560
+Logistic Regression,129,0.6345 +/- 0.0560
+Logistic Regression,143,0.6345 +/- 0.0560
+XGBoost,100,0.6345 +/- 0.0560
+SVM(poly),31,0.6345 +/- 0.0560
+XGBoost,99,0.6345 +/- 0.0560
+ANN,120,0.6345 +/- 0.0560
+Logistic Regression,133,0.6345 +/- 0.0560
+SVM(linear),96,0.6345 +/- 0.0560
+SVM(linear),97,0.6345 +/- 0.0560
+XGBoost,14,0.6345 +/- 0.0560
+XGBoost,51,0.6345 +/- 0.0560
+XGBoost,98,0.6345 +/- 0.0560
+Logistic Regression,132,0.6345 +/- 0.0560
+Logistic Regression,142,0.6345 +/- 0.0560
+XGBoost,18,0.6345 +/- 0.0516
+ANN,107,0.6345 +/- 0.0468
+XGBoost,90,0.6345 +/- 0.0468
+Logistic Regression,134,0.6345 +/- 0.0468
+Naive Bayes,140,0.6345 +/- 0.0468
+SVM(linear),110,0.6345 +/- 0.0468
+XGBoost,13,0.6345 +/- 0.0468
+SVM(linear),41,0.6345 +/- 0.0468
+SVM(linear),111,0.6345 +/- 0.0468
+SVM(linear),36,0.6345 +/- 0.0468
+XGBoost,42,0.6345 +/- 0.0414
+SVM(linear),24,0.6345 +/- 0.0414
+SVM(linear),112,0.6345 +/- 0.0414
+SVM(linear),93,0.6345 +/- 0.0414
+ANN,82,0.6345 +/- 0.0414
+XGBoost,58,0.6345 +/- 0.0352
+Logistic Regression,57,0.6345 +/- 0.0352
+Logistic Regression,58,0.6345 +/- 0.0352
+Logistic Regression,52,0.6345 +/- 0.0352
+XGBoost,87,0.6345 +/- 0.0352
+XGBoost,84,0.6345 +/- 0.0352
+ANN,122,0.6345 +/- 0.0352
+Logistic Regression,26,0.6345 +/- 0.0352
+ANN,92,0.6345 +/- 0.0352
+XGBoost,85,0.6345 +/- 0.0352
+XGBoost,59,0.6345 +/- 0.0352
+SVM(linear),16,0.6345 +/- 0.0352
+XGBoost,60,0.6345 +/- 0.0352
+ANN,33,0.6345 +/- 0.0352
+Logistic Regression,63,0.6345 +/- 0.0352
+XGBoost,62,0.6345 +/- 0.0352
+Logistic Regression,66,0.6345 +/- 0.0352
+Logistic Regression,67,0.6345 +/- 0.0352
+Logistic Regression,62,0.6345 +/- 0.0352
+Logistic Regression,60,0.6345 +/- 0.0352
+SVM(linear),18,0.6345 +/- 0.0352
+Logistic Regression,59,0.6345 +/- 0.0352
+XGBoost,86,0.6345 +/- 0.0352
+SVM(linear),22,0.6345 +/- 0.0276
+SVM(linear),84,0.6345 +/- 0.0276
+ANN,109,0.6345 +/- 0.0276
+SVM(linear),83,0.6345 +/- 0.0276
+ANN,102,0.6345 +/- 0.0276
+Logistic Regression,22,0.6345 +/- 0.0169
+SVM(linear),23,0.6345 +/- 0.0169
+Logistic Regression,24,0.6345 +/- 0.0169
+XGBoost,44,0.6345 +/- 0.0169
+Logistic Regression,23,0.6345 +/- 0.0169
+Logistic Regression,21,0.6345 +/- 0.0169
+XGBoost,45,0.6345 +/- 0.0169
+Logistic Regression,20,0.6345 +/- 0.0169
+SVM(linear),1,0.6276 +/- 0.0798
+Logistic Regression,95,0.6276 +/- 0.0798
+Logistic Regression,85,0.6276 +/- 0.0736
+Logistic Regression,98,0.6276 +/- 0.0703
+Logistic Regression,81,0.6276 +/- 0.0703
+XGBoost,16,0.6276 +/- 0.0703
+Logistic Regression,92,0.6276 +/- 0.0703
+Logistic Regression,90,0.6276 +/- 0.0703
+SVM(poly),96,0.6276 +/- 0.0669
+SVM(poly),100,0.6276 +/- 0.0669
+SVM(poly),101,0.6276 +/- 0.0669
+SVM(poly),94,0.6276 +/- 0.0669
+SVM(poly),102,0.6276 +/- 0.0669
+Logistic Regression,140,0.6276 +/- 0.0669
+SVM(poly),93,0.6276 +/- 0.0669
+SVM(poly),103,0.6276 +/- 0.0669
+SVM(poly),105,0.6276 +/- 0.0669
+SVM(poly),107,0.6276 +/- 0.0669
+SVM(poly),106,0.6276 +/- 0.0669
+SVM(linear),89,0.6276 +/- 0.0669
+SVM(poly),97,0.6276 +/- 0.0669
+Logistic Regression,91,0.6276 +/- 0.0632
+SVM(linear),106,0.6276 +/- 0.0632
+SVM(linear),105,0.6276 +/- 0.0632
+Logistic Regression,113,0.6276 +/- 0.0632
+ANN,119,0.6276 +/- 0.0632
+SVM(linear),121,0.6276 +/- 0.0593
+SVM(linear),90,0.6276 +/- 0.0593
+Logistic Regression,71,0.6276 +/- 0.0593
+Logistic Regression,73,0.6276 +/- 0.0593
+SVM(poly),32,0.6276 +/- 0.0593
+SVM(linear),123,0.6276 +/- 0.0593
+Logistic Regression,75,0.6276 +/- 0.0593
+Logistic Regression,76,0.6276 +/- 0.0593
+Logistic Regression,77,0.6276 +/- 0.0593
+SVM(linear),122,0.6276 +/- 0.0593
+Logistic Regression,72,0.6276 +/- 0.0593
+SVM(linear),32,0.6276 +/- 0.0593
+ANN,117,0.6276 +/- 0.0593
+ANN,111,0.6276 +/- 0.0593
+SVM(linear),109,0.6276 +/- 0.0593
+SVM(linear),108,0.6276 +/- 0.0593
+XGBoost,17,0.6276 +/- 0.0593
+SVM(linear),118,0.6276 +/- 0.0552
+SVM(linear),119,0.6276 +/- 0.0552
+SVM(linear),37,0.6276 +/- 0.0552
+XGBoost,109,0.6276 +/- 0.0552
+XGBoost,101,0.6276 +/- 0.0552
+ANN,123,0.6276 +/- 0.0552
+XGBoost,108,0.6276 +/- 0.0552
+XGBoost,102,0.6276 +/- 0.0552
+XGBoost,106,0.6276 +/- 0.0552
+XGBoost,107,0.6276 +/- 0.0552
+XGBoost,105,0.6276 +/- 0.0552
+SVM(linear),70,0.6276 +/- 0.0552
+XGBoost,103,0.6276 +/- 0.0552
+XGBoost,104,0.6276 +/- 0.0552
+Naive Bayes,130,0.6276 +/- 0.0552
+SVM(poly),89,0.6276 +/- 0.0507
+Naive Bayes,141,0.6276 +/- 0.0507
+SVM(poly),87,0.6276 +/- 0.0507
+SVM(poly),86,0.6276 +/- 0.0507
+SVM(linear),69,0.6276 +/- 0.0507
+XGBoost,9,0.6276 +/- 0.0507
+SVM(poly),80,0.6276 +/- 0.0507
+SVM(poly),81,0.6276 +/- 0.0507
+ANN,74,0.6276 +/- 0.0457
+Logistic Regression,68,0.6276 +/- 0.0402
+SVM(linear),115,0.6276 +/- 0.0402
+SVM(linear),116,0.6276 +/- 0.0402
+XGBoost,88,0.6276 +/- 0.0338
+SVM(poly),20,0.6276 +/- 0.0338
+ANN,77,0.6276 +/- 0.0338
+Logistic Regression,65,0.6276 +/- 0.0338
+Logistic Regression,69,0.6276 +/- 0.0338
+XGBoost,89,0.6276 +/- 0.0338
+SVM(linear),82,0.6276 +/- 0.0258
+SVM(poly),19,0.6276 +/- 0.0258
+Logistic Regression,27,0.6276 +/- 0.0258
+XGBoost,49,0.6276 +/- 0.0258
+XGBoost,56,0.6276 +/- 0.0258
+XGBoost,57,0.6276 +/- 0.0258
+SVM(linear),59,0.6276 +/- 0.0258
+XGBoost,55,0.6276 +/- 0.0258
+SVM(linear),29,0.6276 +/- 0.0138
+Logistic Regression,102,0.6207 +/- 0.0786
+Logistic Regression,84,0.6207 +/- 0.0786
+Logistic Regression,101,0.6207 +/- 0.0786
+SVM(poly),95,0.6207 +/- 0.0755
+Logistic Regression,1,0.6207 +/- 0.0723
+Logistic Regression,139,0.6207 +/- 0.0723
+XGBoost,5,0.6207 +/- 0.0723
+SVM(poly),45,0.6207 +/- 0.0654
+XGBoost,23,0.6207 +/- 0.0654
+SVM(poly),44,0.6207 +/- 0.0654
+SVM(poly),43,0.6207 +/- 0.0654
+SVM(poly),42,0.6207 +/- 0.0654
+SVM(poly),41,0.6207 +/- 0.0617
+SVM(poly),85,0.6207 +/- 0.0577
+SVM(poly),90,0.6207 +/- 0.0577
+SVM(poly),82,0.6207 +/- 0.0577
+SVM(poly),91,0.6207 +/- 0.0577
+SVM(linear),92,0.6207 +/- 0.0577
+SVM(poly),83,0.6207 +/- 0.0577
+SVM(poly),92,0.6207 +/- 0.0577
+SVM(linear),117,0.6207 +/- 0.0534
+SVM(poly),78,0.6207 +/- 0.0488
+SVM(poly),76,0.6207 +/- 0.0488
+XGBoost,26,0.6207 +/- 0.0488
+SVM(poly),22,0.6207 +/- 0.0488
+SVM(poly),21,0.6207 +/- 0.0488
+SVM(linear),61,0.6207 +/- 0.0488
+SVM(poly),79,0.6207 +/- 0.0488
+SVM(poly),75,0.6207 +/- 0.0488
+SVM(poly),77,0.6207 +/- 0.0488
+SVM(linear),21,0.6207 +/- 0.0436
+SVM(linear),87,0.6207 +/- 0.0436
+SVM(poly),26,0.6207 +/- 0.0436
+SVM(poly),29,0.6207 +/- 0.0436
+SVM(linear),60,0.6207 +/- 0.0308
+SVM(poly),18,0.6207 +/- 0.0218
+ANN,105,0.6207 +/- 0.0218
+XGBoost,46,0.6207 +/- 0.0000
+XGBoost,47,0.6207 +/- 0.0000
+XGBoost,48,0.6207 +/- 0.0000
+XGBoost,24,0.6138 +/- 0.0935
+ANN,1,0.6138 +/- 0.0703
+SVM(poly),37,0.6138 +/- 0.0669
+SVM(poly),40,0.6138 +/- 0.0669
+SVM(poly),36,0.6138 +/- 0.0669
+SVM(poly),84,0.6138 +/- 0.0669
+SVM(poly),39,0.6138 +/- 0.0669
+SVM(poly),35,0.6138 +/- 0.0632
+SVM(poly),68,0.6138 +/- 0.0593
+SVM(poly),71,0.6138 +/- 0.0593
+SVM(poly),67,0.6138 +/- 0.0593
+SVM(poly),65,0.6138 +/- 0.0593
+SVM(poly),74,0.6138 +/- 0.0593
+SVM(poly),23,0.6138 +/- 0.0593
+SVM(poly),64,0.6138 +/- 0.0593
+SVM(linear),88,0.6138 +/- 0.0593
+SVM(poly),73,0.6138 +/- 0.0593
+SVM(poly),63,0.6138 +/- 0.0593
+SVM(linear),95,0.6138 +/- 0.0593
+SVM(poly),66,0.6138 +/- 0.0593
+ANN,71,0.6138 +/- 0.0593
+SVM(poly),70,0.6138 +/- 0.0593
+SVM(poly),58,0.6138 +/- 0.0593
+SVM(poly),69,0.6138 +/- 0.0593
+Naive Bayes,1,0.6138 +/- 0.0593
+SVM(linear),35,0.6138 +/- 0.0552
+SVM(linear),113,0.6138 +/- 0.0552
+SVM(linear),86,0.6138 +/- 0.0507
+SVM(linear),62,0.6138 +/- 0.0507
+SVM(poly),61,0.6138 +/- 0.0507
+SVM(poly),30,0.6138 +/- 0.0507
+ANN,75,0.6138 +/- 0.0457
+SVM(linear),79,0.6138 +/- 0.0402
+SVM(poly),46,0.6069 +/- 0.0710
+SVM(linear),68,0.6069 +/- 0.0640
+SVM(poly),72,0.6069 +/- 0.0640
+SVM(poly),60,0.6069 +/- 0.0601
+SVM(poly),62,0.6069 +/- 0.0601
+SVM(poly),59,0.6069 +/- 0.0601
+SVM(linear),64,0.6069 +/- 0.0601
+SVM(poly),49,0.6069 +/- 0.0560
+SVM(poly),56,0.6069 +/- 0.0560
+SVM(poly),55,0.6069 +/- 0.0560
+SVM(poly),24,0.6069 +/- 0.0560
+SVM(poly),25,0.6069 +/- 0.0560
+SVM(poly),27,0.6069 +/- 0.0560
+SVM(poly),48,0.6069 +/- 0.0560
+SVM(poly),57,0.6069 +/- 0.0560
+SVM(linear),63,0.6069 +/- 0.0468
+SVM(linear),78,0.6069 +/- 0.0414
+XGBoost,52,0.6069 +/- 0.0352
+XGBoost,10,0.6000 +/- 0.0774
+SVM(linear),65,0.6000 +/- 0.0601
+SVM(poly),34,0.6000 +/- 0.0601
+SVM(poly),54,0.6000 +/- 0.0560
+SVM(poly),47,0.6000 +/- 0.0560
+SVM(linear),66,0.6000 +/- 0.0560
+SVM(poly),51,0.6000 +/- 0.0560
+SVM(poly),50,0.6000 +/- 0.0560
+SVM(poly),53,0.6000 +/- 0.0560
+SVM(poly),33,0.6000 +/- 0.0516
+SVM(linear),33,0.6000 +/- 0.0516
+ANN,25,0.6000 +/- 0.0468
+SVM(linear),81,0.6000 +/- 0.0352
+SVM(poly),1,0.5931 +/- 0.0798
+SVM(linear),72,0.5931 +/- 0.0798
+Naive Bayes,143,0.5931 +/- 0.0768
+SVM(linear),80,0.5931 +/- 0.0669
+SVM(linear),77,0.5931 +/- 0.0632
+SVM(linear),67,0.5931 +/- 0.0593
+Naive Bayes,142,0.5931 +/- 0.0593
+SVM(poly),28,0.5931 +/- 0.0593
+SVM(poly),52,0.5931 +/- 0.0552
+SVM(linear),34,0.5931 +/- 0.0338
+SVM(linear),71,0.5793 +/- 0.0402
+SVM(linear),76,0.5724 +/- 0.0560
+SVM(linear),73,0.5655 +/- 0.0560
+SVM(linear),75,0.5586 +/- 0.0552
+SVM(linear),74,0.5586 +/- 0.0552
