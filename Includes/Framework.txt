@@ -1,0 +1,20 @@
+1. Take one molecular dataset and phenotype dataset
+2. Transpose the molecular dataset
+3. Select traget features from phenotype dataset
+4. Merge the two datasets
+5. Convert object types to numeric types
+6. Feature selection - Information Gain (Mutual info), Correlation Coefficient, Chi-Square, Feature Importance - 25, 50, 100, 150, 200
+7. Check cross-validation scores for each feature selection method with different number of features
+8. Select the best feature selection method
+9. Create new datasets (Feature counts 1-Instances_Count)
+10. Bouild models with different feature counts - SVM(linear), SVM(poly), Random Forest, Logistic Regression, Naive Bayes, ANN, XGBoost
+11. Check cross-validation scores for each model with different number of features
+12. Select the best model and feature count
+13. Measure accuracy, precision, recall, f1-score, auc, roc, confusion matrix
+14. Hyperparameter tuning for the best model
+15. Result interpretation
+16. Follow the same steps for other datasets
+17. Compare the results
+
+
+
