@@ -5,16 +5,17 @@
 5. Convert object types to numeric types
 6. Feature selection - Information Gain (Mutual info), Correlation Coefficient, Chi-Square, Feature Importance - 25, 50, 100, 150, 200
 7. Check cross-validation scores for each feature selection method with different number of features
-8. Select the best feature selection method
+8. Select the Best Feature Selection Method using Random Forest
 9. Create new datasets (Feature counts 1-Instances_Count)
 10. Bouild models with different feature counts - SVM(linear), SVM(poly), Random Forest, Logistic Regression, Naive Bayes, ANN, XGBoost
 11. Check cross-validation scores for each model with different number of features
 12. Select the best model and feature count
-13. Measure accuracy, precision, recall, f1-score, auc, roc, confusion matrix
-14. Hyperparameter tuning for the best model
-15. Result interpretation
-16. Follow the same steps for other datasets
-17. Compare the results
+13. If the Best Model is not Random Forest, Follow Steps from 8 using Selected Best Algorithm
+14. Measure accuracy, precision, recall, f1-score, auc, roc, confusion matrix
+15. Hyperparameter tuning for the best model
+16. Result interpretation
+17. Follow the same steps for other datasets
+18. Compare the results
 
 
 
