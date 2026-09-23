@@ -50,8 +50,44 @@ The research will focus on gathering and preparing various molecular datasets re
 
 ## 3. Notebooks and Datasets
 
-Include all notebooks, Python codes, datasets, output images, and documentation for each dataset. This section provides a comprehensive overview of the steps taken in the project.
+The repository is organised as follows:
+
+| Folder | Contents |
+|---|---|
+| `Notebooks/` | One Jupyter notebook per dataset (`Dataset_01`–`Dataset_21`), including their saved outputs |
+| `Datasets/` | Processed data per dataset (`Datasets/DatasetNN/`); each contains a `Feature_Select/` sub-folder with candidate feature sets and cross-validation results |
+| `Datasets/Raw_Data/` | Raw GEO downloads (git-ignored; download from GEO using the accessions below) |
+| `Outputs/` | Figures produced by the notebooks |
+| `Includes/` | Framework diagram and supporting material |
+| `Proposal/` | Research proposal, annotated bibliography, progress reports and thesis |
+| `References/` | Literature reviewed for each dataset (`Paper 01`–`Paper 21`) |
+| `Slides/` | Presentations |
+
+### Provenance: paper data → repository
+
+| Published dataset | GEO accession | Data folder | Notebook |
+|---|---|---|---|
+| DNA methylation (5hmC, cfDNA) | GSE140842 | `Datasets/Dataset01` | `Notebooks/Dataset_01.ipynb` |
+| small RNA (retina) | GSE160310 (subseries GSE160308) | `Datasets/Dataset02` | `Notebooks/Dataset_02.ipynb` |
+| total RNA (retina) | GSE160310 (subseries GSE160306) | `Datasets/Dataset03` | `Notebooks/Dataset_03.ipynb` |
+| smallRNA + totalRNA (combined) | derived | `Datasets/Dataset04` | `Notebooks/Dataset_04.ipynb` |
+| Gene-expression subsets (exploratory) | GSE221521 | `Datasets/Dataset05`–`Dataset21` | `Notebooks/Dataset_05.ipynb`–`Dataset_21.ipynb` |
+
+> Note: the raw transcriptome files are named after their GEO subseries
+> (`GSE160308_human_retina_DR_smallRNA_counts.txt` and
+> `GSE160306_human_retina_DR_totalRNA_counts.txt`); the paper cites the parent
+> accession GSE160310, which links both subseries. The `Outputs/Dataset 01`
+> folder intentionally keeps its original (spaced) name and is not referenced
+> by any notebook path.
 
 ## 4. Steps Document
 
 For a detailed account of the steps taken in each code, including every algorithms and their results, please refer to the [Steps Document](steps_document.md).
+
+## 5. Publication
+
+The results produced by this repository are published in:
+
+> Jeyananthan, P., Chandrasiri, H.V.B.L., & Ashfa, A.G.F. (2026). OMICS data in the diagnosis of diabetic retinopathy: A comparison between transcriptome data and DNA methylation data. *Experimental Eye Research*, 267, 110988. https://doi.org/10.1016/j.exer.2026.110988
+
+This repository is referenced in the paper as the source of the analysis code. Headline results: DNA methylation 0.9571 ± 0.035 (top 48 correlation-selected features + logistic regression), small RNA 0.92 ± 0.07 (top 48 feature-importance-selected features + SVM), and total RNA 0.9625 ± 0.05 (top 14 feature-importance-selected features + naïve Bayes — the best model of the study). The recorded execution environment is documented in [requirements-freeze.txt](requirements-freeze.txt).

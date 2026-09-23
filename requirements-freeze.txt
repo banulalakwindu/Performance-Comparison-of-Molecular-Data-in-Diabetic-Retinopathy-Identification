@@ -1,0 +1,23 @@
+# Recorded execution environment for the notebooks in Notebooks/
+# ----------------------------------------------------------------
+# Source: notebook metadata (language_info.version), recorded by Jupyter at
+# execution time. 17 of the 21 notebooks report Python 3.10.9 and 4 report
+# Python 3.12.4 (Anaconda distribution, kernelspec "base" / "Python 3").
+#
+# The library versions in effect when the notebooks were last executed were
+# not captured in the saved notebook outputs, so the runtime dependencies are
+# listed here without version pins. Reproducing the published results
+# (Jeyananthan et al., Exp Eye Res 267 (2026) 110988) is expected to require
+# a scikit-learn version with the APIs used by the notebooks (e.g.
+# sklearn.feature_selection.mutual_info_classif, chi2, f_classif).
+#
+# Python: 3.10.9 / 3.12.4 (Anaconda)
+
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
+seaborn
+tqdm
+jupyter
